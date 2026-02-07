@@ -6,7 +6,8 @@
 
 
 ## Live Demo  
-I hosted this web site using gitpages the link is
+I hosted this web site using gitpages the link is [Live Demo](https://resume-template-mylu.vercel.app/)
+
 
 ## Purpose
 The purpose of this project is to demonstrate the use of basic HTML tags
